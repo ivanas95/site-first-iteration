@@ -1,0 +1,73 @@
+<html>
+    <head>
+        <title></title>
+        <link rel="stylesheet" href="more-details-style.css"/>
+        <link rel="stylesheet" href="https://use.typekit.net/iul4bcs.css">
+        
+    </head>
+    <body>
+        <p>
+            hi
+        </p>
+       <div class="container">
+            <div style="overflow: auto;">
+                <div class="blueBackground"></div>
+                <div style="padding-top: 30px;">
+                    <div class="title">
+                        <p>
+                            GEL INK
+                            <BR>
+                                BALLPOINT
+                                <BR>
+                                    CAP PEN
+                        </p>
+                    </div>
+                    <div class="brandName">
+                        <p>
+                            MUJI
+                        </p>
+                    </div>
+                    <div class="price">
+                        <p>
+                            $2.40
+                        </p>
+                    </div>
+                    <div class="paragraph">
+                        <p>
+                            Very smooth, lightweight pen. Uses water based ink. Inky pen depending on size but dries very fast. Suitable for lefties. Variety of colours and weights. 
+                        </p>
+                    </div>
+                    <div class="properties">
+                        <p>
+                            FINE
+                            <br>
+                            LIGHTWEIGHT
+                            <br>
+                            NO GRIP
+                            <br>
+                            SLIM
+                            <br> 
+                            FAST DRYING
+                            <br>
+                            CAPPED
+                            <br>
+                            COLOUR OPTIONS
+                        </p>
+                    </div>
+                    <div class="propertiesSpecify">
+                        <div style="color:rgb(21, 82, 255);">
+                            <p>
+                                0.38 MM
+                                <br>
+                                PLASTIC
+                            </p>
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
+       </div>
+    </body>
+
+</html>
