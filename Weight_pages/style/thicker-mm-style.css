@@ -1,0 +1,162 @@
+.container {
+
+display: grid;
+width: 100%;
+height: 100%;
+padding-left: 14vw;
+overflow: hidden;
+position: fixed;
+left:-5px;
+
+}
+
+p {
+    margin: 0;
+}
+
+strong {
+
+    font-weight: normal;
+}
+
+.blueLineMain {
+
+width: 120%;
+height: 4px;
+background-color: rgb(21, 82, 255);
+position: fixed;
+overflow:visible;
+margin-top: 8vw;
+left:-3px;
+
+}
+
+.title {
+
+font-size: 4.5vh;
+font-family: "interstate-mono", monospace;
+margin-top: 31vh;
+position: absolute;
+
+}
+
+.option {
+
+font-size: 2vh;
+font-family: "interstate-mono", monospace;
+margin-top: 61vh;
+position: absolute;
+
+}
+
+.definition {
+
+font-size: 2vh;
+font-family: "interstate-mono", monospace;
+margin-top: 39vh;
+position: absolute;
+
+}
+
+.breadcrumb {
+
+font-size: 2vh;
+font-family: "interstate-mono", monospace;
+margin-top: 15vh;
+position: absolute;
+
+}
+
+.toAppear {
+
+font-size: 4.5vh;
+font-family: "interstate-mono", monospace;
+margin-top: 38.6vh;
+margin-left: 46vw;
+line-height: 10vh;
+
+}
+
+.widthList {
+
+font-size: 4.5vh;
+font-family: "interstate-mono", monospace;
+margin-top: 38.6vh;
+margin-left: 46vw;
+line-height: 3vh;
+}
+
+.blueUnderline1 {
+
+width: 15vw;
+height: 4px;
+background-color: rgb(21, 82, 255);
+margin-top: 49vh;
+margin-left: 46.1vw;
+position: fixed;
+overflow:visible;
+
+
+}
+
+.blueUnderline2 {
+
+width: 15vw;
+height: 4px;
+background-color: rgb(21, 82, 255);
+margin-top: 56vh;
+margin-left: 46.1vw;
+position: fixed;
+overflow:visible;
+
+}
+
+.blueUnderline3 {
+
+width: 15vw;
+height: 4px;
+background-color: rgb(21, 82, 255);
+margin-top: 63vh;
+margin-left: 46.1vw;
+position: fixed;
+overflow:visible;
+
+}
+
+.blueUnderline4 {
+
+width: 15vw;
+height: 4px;
+background-color: rgb(21, 82, 255);
+margin-top: 70vh;
+margin-left: 46.1vw;
+position: fixed;
+overflow:visible;
+
+}
+
+.blueUnderline5 {
+
+width: 15vw;
+height: 4px;
+background-color: rgb(21, 82, 255);
+margin-top: 77vh;
+margin-left: 46.1vw;
+position: fixed;
+overflow:visible;
+
+}
+
+
+
+.clickMeTrait1 {
+
+width: 20vw;
+height: 3vh;
+background-color: black;
+z-index: 3;
+margin-top: 63vh;
+position:absolute;
+opacity: 0%;
+
+}

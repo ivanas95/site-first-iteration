@@ -1,0 +1,97 @@
+.container {
+
+display: grid;
+width: 100%;
+height: 100%;
+background-color: #0013ff;
+padding-top: 15vh;
+padding-left: 14vw;
+overflow: hidden;
+position: fixed;
+left:-5px;
+top:-5px;
+
+}
+
+p {
+    margin:0;
+}
+
+.longTitle {
+
+font-size: 14vh;
+font-family: "interstate-mono", monospace;
+line-height: 14vh;
+color: white;
+
+}
+
+.shortTitle {
+
+font-size: 14vh;
+font-family: "interstate-mono", monospace;
+line-height: 14vh;
+color: white;
+padding-left: 45vw;
+
+}
+
+
+.whiteLineOne {
+
+width: 14.7vw;
+margin-left:-14vw;
+height: 8px;
+background-color: rgb(255, 255, 255);
+position: fixed;
+overflow:visible;
+
+}
+
+.whiteLineTwo {
+
+width: 100%;
+height: 8px;
+margin-left:45.7vw;
+background-color: rgb(255, 255, 255);
+position: fixed;
+overflow:hidden;
+
+}
+
+.whatIsThis {
+
+font-size: 4.5vh;
+font-family: "interstate-mono", monospace;
+position: absolute;
+padding-left: 20px;
+padding-top: 30px;
+color: white;
+
+}
+
+.clickMeAbout {
+
+width: 20vw;
+height: 6vh;
+background-color: black;
+z-index: 3;
+margin-top: 1vh;
+position:absolute;
+opacity: 0%;
+
+}
+
+.clickMePenstyle {
+
+width: 20vw;
+height: 15vh;
+background-color: yellow;
+z-index: 3;
+position:absolute;
+opacity: 100%;
+margin-top: 55vh;
+margin-left: 58vw;
+opacity:0%;
+
+}
