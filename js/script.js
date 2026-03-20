@@ -1,6 +1,7 @@
 $('.toggleHide-quality').on('click', function(e) {
-
+    
     e.preventDefault(); // stops page jump
+    
     $('.hidden-weight').show();
 
 });
