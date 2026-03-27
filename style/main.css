@@ -26,6 +26,21 @@ header {
 
 
 
+.header-all:hover .header-blue-text {
+    opacity: 1;
+    pointer-events: auto;
+    height:150px;
+    background-color: #0013ff;
+
+}
+
+.header-text {
+    color: white;
+    margin-left: 15%;
+    margin-top: 5.5%;
+}
+
+
 .header-all {
     position: fixed;
     top: 0;
@@ -33,6 +48,11 @@ header {
     width: 100%;
     z-index: 5;
 }
+
+
+
+
+
 
 .header-space {
     height: 100px;
@@ -47,19 +67,6 @@ header {
 
 }
 
-.header-all:hover .header-blue-text {
-    opacity: 1;
-    pointer-events: auto;
-    height:100px;
-    background-color: #0013ff;
-
-}
-
-.header-text {
-    color: white;
-    margin-left: 15%;
-    margin-top: 2.5%;
-}
 
 
 
@@ -102,6 +109,7 @@ header {
     display: grid;
     grid-template-columns: 2fr 1fr;
     margin-top: 7rem;
+    margin-bottom: 7rem;
 }
 
 .grid-2-3-1 {

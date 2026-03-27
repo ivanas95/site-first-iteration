@@ -1,7 +1,6 @@
 $('.toggleHide-quality').on('click', function(e) {
     
     e.preventDefault(); // stops page jump
-    
     $('.hidden-weight').show();
 
 });
@@ -19,6 +18,7 @@ $('.toggleHide-thicker').on('click', function(e) {
     $('.hidden-thicker').show();
 
 });
+
 $('.option').on('click', function(e) {
 
     e.preventDefault(); 
@@ -69,7 +69,8 @@ $('.toggleHide-griptype').on('click', function(e) {
 
 });
 
-$('.toggleHide-grip').on('click', function(e) {
+
+$('.toggleHide-grip, .toggleHide-griptype-specify').on('click', function(e) {
 
     e.preventDefault(); 
     $('.hidden-colour').show();
